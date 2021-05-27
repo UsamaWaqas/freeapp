@@ -1,12 +1,16 @@
 import React  from 'react';
-import './App.css';
-import dinner from "./dinner.js"
+import  './App.css';
+import Dinner from './Dinner';
+
+
+
+
 function App() {
   return(
 
-<div classname = "App"> 
+<div className = "App"> 
+<Dinner/>
 
-<dinner/>
 </div>
  
   )
