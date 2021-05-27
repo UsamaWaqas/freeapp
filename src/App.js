@@ -10,6 +10,9 @@ function App() {
 
 <div className = "App"> 
 <Dinner sweetdish = "kheer"  dish= "chicken baryani"/>
+<Dinner sweetdish = "kheer"  dish= "chicken baryani"/>
+<Dinner sweetdish = "kheer"  dish= "chicken baryani"/>
+<Dinner sweetdish = "kheer"  dish= "chicken baryani"/>
 
 </div>
  
