@@ -3,11 +3,11 @@ import React from "react";
 
 
 
- function  Dinner() {
+ function  Dinner(props) {
      return(
         <div>
-            <h1> today we are serving  </h1>
-            <h1> today we are serving  </h1>
+            <h1> today we are serving {props.dish} </h1>
+            <h1> today we are serving {props.sweetdish} </h1>
         </div>
     )
               

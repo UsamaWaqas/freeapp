@@ -9,7 +9,7 @@ function App() {
   return(
 
 <div className = "App"> 
-<Dinner/>
+<Dinner sweetdish = "kheer"  dish= "chicken baryani"/>
 
 </div>
  
